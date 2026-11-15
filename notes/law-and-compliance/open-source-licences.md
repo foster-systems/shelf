@@ -4,7 +4,7 @@ description: "What open source licences allow and require when a company builds 
 why: "Most of a product's code is open source, and each licence sets conditions on its use. A missed copyleft obligation can mean releasing source code or rewriting a component, and acquirers and investors check for it in due diligence."
 reviewed: 2026-11-11
 sidebar:
-  order: 10
+  order: 11
 tags: [open-source, licensing, copyleft, agpl, compliance]
 related: [security/supply-chain, architecture/build-or-buy, product-and-business/fundraising-and-due-diligence, law-and-compliance/intellectual-property]
 sources:
