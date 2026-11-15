@@ -4,7 +4,7 @@ description: "Two security assurance schemes: SOC 2, a report by a CPA firm unde
 why: "Large customers ask for one of these before buying, so either can decide a sale. Both check that stated controls exist and are followed; neither is a security test. The engineering work is cheapest when started early, while the team is small."
 reviewed: 2026-11-11
 sidebar:
-  order: 9
+  order: 10
 tags: [soc-2, iso-27001, compliance, audit, security-assurance]
 related: [security/security-programme, security/application-security, security/identity-and-access, law-and-compliance/gdpr, law-and-compliance/nis2-and-cra, product-and-business/enterprise-readiness]
 sources:

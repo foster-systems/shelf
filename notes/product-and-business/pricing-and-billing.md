@@ -6,7 +6,7 @@ reviewed: 2026-11-11
 sidebar:
   order: 3
 tags: [pricing, packaging, billing, usage-based, metering, ledger, saas, ai]
-related: [product-and-business/saas-metrics, product-and-business/go-to-market, architecture/build-or-buy, infrastructure/finops]
+related: [product-and-business/saas-metrics, product-and-business/go-to-market, law-and-compliance/vat-and-sales-tax, architecture/build-or-buy, infrastructure/finops]
 sources:
   - title: "Pricing low-touch SaaS"
     author: Patrick McKenzie
