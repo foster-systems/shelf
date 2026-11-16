@@ -86,10 +86,11 @@ Getting changes to production: pipelines, tests, code review and how to measure 
 
 ### [Reliability](notes/reliability/)
 
-Seeing what production does, setting targets for it and recovering when it fails.
+Seeing what production does, setting targets for it, keeping it fast as load grows and recovering when it fails.
 
 - [Observability](notes/reliability/observability.md): Understanding what running systems do through logs, metrics and traces.
 - [Service level objectives](notes/reliability/slos.md): Reliability targets based on what users experience, and the error budgets that follow from them.
+- [Performance and capacity](notes/reliability/performance.md): Keeping a product fast as its load grows: measuring latency, load testing, profiling and planning capacity ahead of demand.
 - [Incidents](notes/reliability/incidents.md): Responding to production failures and learning from them: severity, roles, communication and post-incident reviews.
 - [On-call](notes/reliability/on-call.md): Who answers production alerts outside working hours, how the rotation is run, and what it costs the people on it.
 - [Backups and disaster recovery](notes/reliability/backups.md): Keeping copies of data that can be restored, and planning how to recover from losing a database, a region or a cloud account.
@@ -124,7 +125,7 @@ The laws, contracts, standards and rights a software company working in the EU h
 
 ### [Product and business](notes/product-and-business/)
 
-The business a software company's technology serves: product discovery, go-to-market, pricing, enterprise readiness, metrics, runway, funding and equity.
+The business a software company's technology serves: what to build, how to sell and price it, and how to measure the company, fund it and share its ownership.
 
 - [Product discovery](notes/product-and-business/product-discovery.md): How a software company decides what to build, tests ideas with customers before building them, and tells whether it has product-market fit.
 - [Go-to-market and early sales](notes/product-and-business/go-to-market.md): How a software company finds its first customers, matches its way of selling to its price point, and moves from founder-led sales to a sales team.

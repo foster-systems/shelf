@@ -4,7 +4,7 @@ description: "Who answers production alerts outside working hours, how the rotat
 why: "A software company needs someone on call from its first paying customers, usually its own engineers. A rotation with too few people or noisy alerts burns them out, and in the EU stand-by time can count as working time."
 reviewed: 2026-11-11
 sidebar:
-  order: 4
+  order: 5
 tags: [on-call, pager, rotation, alerting, working-time]
 related: [reliability/incidents, reliability/observability, reliability/slos, team/team-design]
 sources:

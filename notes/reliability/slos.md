@@ -6,7 +6,7 @@ reviewed: 2026-11-11
 sidebar:
   order: 2
 tags: [slo, sli, error-budget, availability, alerting]
-related: [reliability/observability, reliability/incidents, delivery/delivery-metrics, law-and-compliance/saas-contracts]
+related: [reliability/observability, reliability/performance, reliability/incidents, delivery/delivery-metrics, law-and-compliance/saas-contracts]
 sources:
   - title: Service Level Objectives
     author: Chris Jones, John Wilkes and Niall Murphy

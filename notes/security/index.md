@@ -5,4 +5,4 @@ sidebar:
   order: 9
 ---
 
-These topics cover a company's first security programme, application security, securing AI features, identity and access, the software supply chain, and handling reported vulnerabilities.
+Security laws and certifications, such as NIS2, the Cyber Resilience Act, SOC 2 and ISO/IEC 27001, are in Law and compliance.

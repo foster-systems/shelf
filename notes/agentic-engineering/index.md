@@ -5,4 +5,4 @@ sidebar:
   order: 3
 ---
 
-These topics cover when coding agents help, how to set them up, and how to keep their work checked, safe and shippable.
+These topics are about agents that write the software. Building AI into the product itself is in AI engineering.

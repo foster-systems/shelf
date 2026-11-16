@@ -5,4 +5,4 @@ sidebar:
   order: 5
 ---
 
-How a software company stores its data, moves it, analyses it and protects the personal parts.
+The law on personal data is in Law and compliance, and backups are in Reliability.
