@@ -6,7 +6,7 @@ reviewed: 2026-11-11
 sidebar:
   order: 1
 tags: [observability, logs, metrics, traces, opentelemetry, wide-events]
-related: [reliability/slos, reliability/incidents, reliability/on-call, infrastructure/finops]
+related: [reliability/slos, reliability/performance, reliability/incidents, reliability/on-call, infrastructure/finops]
 sources:
   - title: What is OpenTelemetry?
     author: OpenTelemetry project

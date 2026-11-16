@@ -4,7 +4,7 @@ description: "Keeping copies of data that can be restored, and planning how to r
 why: "Lost customer data can end a young company, and backups that were never restored often fail when they are needed. Recovery targets for data loss and downtime decide what to back up, how often, and how much standby capacity to pay for."
 reviewed: 2026-11-11
 sidebar:
-  order: 5
+  order: 6
 tags: [backups, disaster-recovery, rpo, rto, restore-testing, ransomware]
 related: [reliability/incidents, data/databases, data/database-scaling, architecture/multi-tenancy]
 sources:

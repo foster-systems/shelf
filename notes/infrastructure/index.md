@@ -5,4 +5,4 @@ sidebar:
   order: 6
 ---
 
-These topics cover the cloud base, infrastructure defined in code, where the software runs, email delivery, internal platforms and what it all costs.
+Recovering from the loss of a region or a cloud account is in Reliability, and access control for people and services is in Security.

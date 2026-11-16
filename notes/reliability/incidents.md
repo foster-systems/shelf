@@ -4,7 +4,7 @@ description: "Responding to production failures and learning from them: severity
 why: "Incidents test whether a team can communicate and restore service under pressure, in front of its customers. A small company needs a simple response process before its first serious outage, and a habit of learning from each one."
 reviewed: 2026-11-11
 sidebar:
-  order: 3
+  order: 4
 tags: [incidents, incident-response, postmortems, incident-metrics]
 related: [reliability/on-call, reliability/backups, reliability/observability, reliability/slos, law-and-compliance/nis2-and-cra]
 sources:
