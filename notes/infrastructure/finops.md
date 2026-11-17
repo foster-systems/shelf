@@ -2,7 +2,7 @@
 title: FinOps
 description: "Managing cloud and AI spend as a shared practice of engineering, finance and product, measured as cost per unit of value."
 why: "Cloud and AI spend move with every deploy and prompt, and in a SaaS company they fall directly on gross margin. Cost per customer or per request shows whether spend grows faster than the business."
-reviewed: 2026-11-11
+reviewed: 2026-11-17
 sidebar:
   order: 6
 tags: [finops, cloud-cost, ai-cost, unit-economics, gross-margin, cost-optimization]
@@ -26,12 +26,12 @@ sources:
     type: guide
     year: 2026
     note: "A guide to how AI spend differs from other cloud spend: tokens as the unit, fast-changing prices and buyers outside engineering. It advises allocating spend before optimizing it, committing only once usage is stable, and measuring cost per successful outcome of a use case."
-  - title: Cost Optimization Pillar - AWS Well-Architected Framework
+  - title: Cost optimization - AWS Well-Architected Framework
     author: Amazon Web Services
-    url: "https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html"
+    url: "https://docs.aws.amazon.com/wellarchitected/latest/framework/cost-optimization.html"
     type: guide
-    year: 2024
-    note: "AWS's guidance on cloud financial management, spend awareness, cost-effective resources, matching supply to demand and reducing cost over time. It is written for CTOs, CFOs, architects and developers. It is the vendor's account of its own platform."
+    year: 2026
+    note: "The cost pillar of AWS's framework for reviewing a workload, in four areas: cloud financial management, spend and usage awareness, cost-efficient resources and continuous optimization. It is written for engineers, FinOps and finance staff, and executives such as CTOs and CFOs. It is the vendor's account of its own platform."
   - title: The Cost of Cloud, a Trillion Dollar Paradox
     author: Sarah Wang and Martin Casado
     url: "https://a16z.com/the-cost-of-cloud-a-trillion-dollar-paradox/"
