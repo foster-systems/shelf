@@ -2,7 +2,7 @@
 title: Cloud foundations
 description: "The base of a cloud setup: accounts, region, network, a security baseline and reviews of the architecture."
 why: "Accounts, region and network ranges are chosen in the first weeks and are hard to change once production depends on them. A few controls set at the start reduce the most common security risks of a new cloud account."
-reviewed: 2026-11-11
+reviewed: 2026-11-17
 sidebar:
   order: 1
 tags: [cloud, accounts, regions, networking, well-architected, landing-zone]
@@ -10,10 +10,10 @@ related: [infrastructure/infrastructure-as-code, infrastructure/hosting, infrast
 sources:
   - title: AWS Well-Architected Framework
     author: Amazon Web Services
-    url: "https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html"
+    url: "https://docs.aws.amazon.com/wellarchitected/latest/framework/framework.html"
     type: framework
-    year: 2024
-    note: "A set of questions for reviewing a workload on AWS, grouped in six pillars: operational excellence, security, reliability, performance efficiency, cost optimization and sustainability. AWS describes the review as a conversation about design decisions. It is the vendor's account of good practice on its own platform."
+    year: 2026
+    note: "AWS's best practices for building on its cloud, in two areas. Cloud Foundations covers decisions made once for the whole environment, such as accounts, identity, networking and cost governance. Cloud Workloads covers each workload in six pillars: operational excellence, security, reliability, performance efficiency, cost optimization and sustainability. It is the vendor's account of good practice on its own platform."
   - title: Azure Well-Architected Framework
     author: Microsoft
     url: "https://learn.microsoft.com/azure/well-architected/"
