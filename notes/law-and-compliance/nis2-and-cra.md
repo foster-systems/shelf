@@ -2,7 +2,7 @@
 title: NIS2 and the Cyber Resilience Act
 description: "Two EU cybersecurity laws: NIS2 binds providers of services such as cloud and SaaS, and the Cyber Resilience Act binds makers of software and hardware products."
 why: "A SaaS provider falls under NIS2 as a cloud computing service provider once it is medium-sized or larger under the EU definition; a smaller one that sells to NIS2 entities meets NIS2 terms through their supply-chain duties. A web app used only through a browser is not a Cyber Resilience Act product, but an installed client or mobile app is, and the backend it needs is covered with it."
-reviewed: 2026-11-11
+reviewed: 2026-11-18
 sidebar:
   order: 4
 tags: [nis2, cra, eu-law, compliance, cybersecurity, incident-reporting, sbom]
@@ -35,12 +35,13 @@ sources:
     type: law
     year: 2024
     note: "The full text of the Act, which sets security requirements for products with digital elements and their remote data processing. Recital 12 places SaaS under NIS2 rather than this Act. Article 13 sets a support period of at least five years, or the expected time in use if shorter; Article 14 reporting applies from 11 September 2026 and most other duties from 11 December 2027."
-  - title: "Commission guidance on the application of the Cyber Resilience Act, C(2026) 5252"
+  - title: "Commission guidance on the application of the Cyber Resilience Act, C/2026/6013"
     author: European Commission
-    url: "https://ec.europa.eu/newsroom/dae/redirection/document/131456"
+    url: "https://eur-lex.europa.eu/eli/C/2026/6013/oj/eng"
+    agents: "https://publications.europa.eu/resource/cellar/dcbc848b-e227-11f1-aefc-01aa75ed71a1.0006.03/DOC_1"
     type: guide
     year: 2026
-    note: "The Commission's non-binding guidance of 27 July 2026, with 67 examples. It explains when software is a product, when a backend counts as remote data processing and how support periods work. Example 5 says a web app used only through a browser is not itself a product, while an installed client is, together with the remote processing it relies on."
+    note: "The Commission's non-binding guidance, first released on 27 July 2026 and published in the Official Journal on 17 November 2026, with 67 examples. It explains when software is a product, when a backend counts as remote data processing and how support periods work. Example 5 says a web app used only through a browser is not itself a product, while an installed client is, together with the remote processing it relies on."
   - title: "BSI TR-03183: Cyber Resilience Requirements for Manufacturers and Products"
     author: "Federal Office for Information Security (BSI)"
     url: "https://www.bsi.bund.de/dok/TR-03183-en"
