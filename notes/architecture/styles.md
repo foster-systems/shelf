@@ -41,10 +41,9 @@ sources:
   - title: "Cloud Design Patterns"
     author: Microsoft
     url: "https://learn.microsoft.com/azure/architecture/patterns/"
-    agents: "https://github.com/MicrosoftDocs/architecture-center/tree/main/docs/patterns"
     type: docs
     year: 2026
-    note: "Microsoft's catalogue of 44 technology-agnostic patterns for distributed systems. Each entry gives the problem, considerations for applying the pattern and an example on Azure. The Markdown source is open."
+    note: "Microsoft's catalogue of 44 technology-agnostic patterns for distributed systems. Each entry gives the problem, considerations for applying the pattern and an example on Azure."
   - title: "A pattern language for microservices"
     author: Chris Richardson
     url: "https://microservices.io/patterns/"
