@@ -31,7 +31,7 @@ sources:
     note: "The Commission's optional clauses for a data processing agreement, which meet the contract terms of Article 28 GDPR. Annexes list the parties, the processing, the security measures and the sub-processors, approved one by one or under a general authorisation. They do not cover transfers outside the EU, which need the separate transfer clauses."
   - title: "Opinion 22/2024 on certain obligations following from the reliance on processor(s) and sub-processor(s)"
     author: European Data Protection Board
-    url: "https://www.edpb.europa.eu/our-work-tools/our-documents/opinion-board-art-64/opinion-222024-certain-obligations-following_en"
+    url: "https://www.edpb.europa.eu/documents/opinion-of-the-board-art-64/opinion-222024-on-certain-obligations-following-from-the_en"
     agents: "https://www.edpb.europa.eu/system/files/documents/2024-10/edpb_opinion_202422_relianceonprocessors-sub-processors_en.pdf"
     type: guide
     year: 2024

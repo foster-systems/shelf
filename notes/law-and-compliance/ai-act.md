@@ -42,7 +42,7 @@ sources:
     note: "The Commission's guidelines of 5 November 2026, C(2026) 7702, on the four duties in Article 50: telling people they are interacting with an AI system, machine-readable marking of generated content, informing people exposed to emotion recognition, and labelling deep fakes. They say who is responsible, provider or deployer, with examples such as chatbots and AI agents, and what disclosure is not enough, such as a notice only in the terms and conditions. They also cover the exceptions and the transition to 2 December 2026 for generative systems already on the market. Not legally binding."
   - title: Opinion 28/2024 on certain data protection aspects related to the processing of personal data in the context of AI models
     author: European Data Protection Board
-    url: "https://www.edpb.europa.eu/our-work-tools/our-documents/opinion-board-art-64/opinion-282024-certain-data-protection-aspects_en"
+    url: "https://www.edpb.europa.eu/documents/opinion-of-the-board-art-64/opinion-282024-on-certain-data-protection-aspects-related-to_en"
     agents: "https://www.edpb.europa.eu/system/files/documents/2024-12/edpb_opinion_202428_ai-models_en.pdf"
     type: guide
     year: 2024
