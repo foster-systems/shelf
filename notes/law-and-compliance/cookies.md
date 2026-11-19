@@ -24,21 +24,21 @@ sources:
     note: "The Grand Chamber judgment of 1 October 2019 on cookie consent. A pre-ticked checkbox the user must untick is not valid consent, and the rule applies whether or not the stored information is personal data. Users must be told how long cookies operate and whether third parties can access them."
   - title: "Guidelines 05/2020 on consent under Regulation 2016/679"
     author: European Data Protection Board
-    url: "https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-052020-consent-under-regulation-2016679_en"
+    url: "https://www.edpb.europa.eu/documents/guideline/guidelines-052020-on-consent-under-regulation-2016679_en"
     agents: "https://www.edpb.europa.eu/system/files/documents/files/file1/edpb_guidelines_202005_consent_en.pdf"
     type: guide
     year: 2020
     note: "The EDPB's guidance on what makes consent valid: freely given, specific, informed and unambiguous, and as easy to withdraw as to give. It states that access to a service made conditional on accepting cookies, a cookie wall, is not valid consent, and that scrolling or swiping is not consent."
   - title: "Guidelines 2/2023 on Technical Scope of Art. 5(3) of ePrivacy Directive"
     author: European Data Protection Board
-    url: "https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-22023-technical-scope-art-53-eprivacy-directive_en"
+    url: "https://www.edpb.europa.eu/documents/guideline/guidelines-22023-on-technical-scope-of-art-53-of-eprivacy-directive_en"
     agents: "https://www.edpb.europa.eu/system/files/documents/2024-10/edpb_guidelines_202302_technical_scope_art_53_eprivacydirective_v2_en_0.pdf"
     type: guide
     year: 2024
     note: "The EDPB's analysis of which techniques fall under the consent rule beyond classic cookies. Its use cases include tracking pixels, URL and link decoration, local processing, IP-based tracking, Internet of Things reporting and unique identifiers."
   - title: Report of the work undertaken by the Cookie Banner Taskforce
     author: European Data Protection Board
-    url: "https://www.edpb.europa.eu/our-work-tools/our-documents/other/report-work-undertaken-cookie-banner-taskforce_en"
+    url: "https://www.edpb.europa.eu/documents/task-force-report/report-of-the-work-undertaken-by-the-cookie-banner-taskforce_en"
     agents: "https://www.edpb.europa.eu/system/files/documents/2023-01/edpb_20230118_report_cookie_banner_taskforce_en.pdf"
     type: guide
     year: 2023
