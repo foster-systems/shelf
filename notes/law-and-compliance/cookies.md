@@ -2,7 +2,7 @@
 title: Cookies and tracking consent
 description: "The EU rule that a website or app needs the user's consent before it stores or reads information on their device, unless the service strictly needs it."
 why: "Most products add analytics, advertising, chat or session-replay tools that set cookies or similar trackers, and each needs consent unless it is strictly necessary for the service the user asked for. The rule covers pixels, SDKs and local storage as well as cookies, and applies whether or not the data is personal. Data protection authorities coordinate their enforcement of consent banners across the EU."
-reviewed: 2026-11-11
+reviewed: 2026-11-20
 sidebar:
   order: 2
 tags: [cookies, eprivacy, consent, tracking, eu-law, compliance, gdpr]
@@ -49,5 +49,5 @@ sources:
     agents: "https://publications.europa.eu/resource/cellar/ebf17714-c56e-11f0-8da2-01aa75ed71a1.0001.03/DOC_1"
     type: docs
     year: 2025
-    note: "The Commission's proposal to move the consent rule for personal data on devices into the GDPR, as a new Article 88a. It would exempt first-party audience measurement and security from consent, require a single-click refusal, and oblige websites to respect machine-readable choices sent by browsers once standards exist. The proposal is not yet law."
+    note: "The Commission's proposal to move the consent rule for personal data on devices into the GDPR, as a new Article 88a. It would exempt first-party audience measurement and security from consent, require a single-click refusal, and oblige websites to respect machine-readable choices sent by browsers once standards exist. The Council's negotiating position of 21 October 2026 keeps the rule in the ePrivacy Directive instead, with a list of purposes that need no consent, such as audience measurement, security and measuring contextual advertising. The proposal is not yet law."
 ---
