@@ -1,11 +1,11 @@
 ---
 title: EU consumer law
 description: "The EU rules for selling apps, digital content, digital services and subscriptions to consumers: information before the contract, the right of withdrawal, conformity of digital products, unfair terms and unfair commercial practices."
-why: "A company that sells to consumers in the EU must give set information before the order, let buyers withdraw within 14 days and keep a digital product in conformity, with updates, for as long as the contract runs. A service paid for with personal data is covered too. Fake reviews are banned outright, and hidden subscription terms and manipulative design can be unfair practices."
-reviewed: 2026-11-11
+why: "A company that sells to consumers in the EU must give set information before the order, let buyers withdraw within 14 days and keep a digital product in conformity, with updates, for as long as the contract runs. A service paid for with personal data is covered too. Fake reviews are banned outright, and hidden subscription terms and manipulative design can be unfair practices. A proposed Digital Fairness Act would add rules for dark patterns, free trials, automatic renewals and online cancellation."
+reviewed: 2026-11-20
 sidebar:
   order: 6
-tags: [consumer-law, eu-law, compliance, right-of-withdrawal, digital-content, subscriptions, dark-patterns]
+tags: [consumer-law, eu-law, compliance, right-of-withdrawal, digital-content, subscriptions, dark-patterns, digital-fairness-act]
 related: [law-and-compliance/saas-contracts, law-and-compliance/cookies, law-and-compliance/gdpr, law-and-compliance/digital-services-act, product-and-business/pricing-and-billing]
 sources:
   - title: "Directive 2011/83/EU (Consumer Rights Directive), consolidated text"
@@ -43,6 +43,13 @@ sources:
     type: guide
     year: 2021
     note: "The Commission's notice on applying the Unfair Commercial Practices Directive, taking account of the Court's rulings up to October 2021. Its sections on the digital sector cover search ranking, user reviews, influencer marketing, data-driven practices and dark patterns, pricing, gaming and consumer lock-in, and another covers free trials and subscription traps. It is guidance only and predates the 2024 amendments."
+  - title: "Proposal for a Digital Fairness Act, COM(2026) 1100"
+    author: European Commission
+    url: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC1100"
+    agents: "https://publications.europa.eu/resource/cellar/ce41d25c-de86-11f1-ba80-01aa75ed71a1.0001.03/DOC_1"
+    type: docs
+    year: 2026
+    note: "The Commission's proposal of 11 November 2026 for a regulation that would replace the Unfair Commercial Practices Directive and keep its general tests. It adds rules on dark patterns, influencer marketing, personalised advertising and pricing, and addictive features. For digital contracts it requires a reminder and the consumer's active acceptance before a free trial turns paid, reminders before automatic renewal, an online cancellation function and access to a human in customer service. The proposal is not yet law."
   - title: "Directive 93/13/EEC (Unfair Contract Terms Directive), consolidated text"
     author: European Union
     url: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01993L0013-20220528"
