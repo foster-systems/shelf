@@ -2,7 +2,7 @@
 title: Reports and radars
 description: "Recurring reports and radars on technology choices, software delivery, AI and security breaches."
 why: "A small company cannot run its own market research. These editions show which tools practitioners adopt, what delivery research supports, where AI is heading and how attackers get in, on a known schedule."
-reviewed: 2026-11-11
+reviewed: 2026-11-21
 sidebar:
   order: 1
 tags: [trends, surveys, radar, research, ai, security]

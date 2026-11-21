@@ -2,7 +2,7 @@
 title: Securing coding agents
 description: "Limiting what coding agents can reach and do: permissions, sandboxes, network limits, third-party plugins and prompt injection."
 why: "Agents run with real credentials, read untrusted content and load third-party plugins, and prompt injection has no complete fix. Hard limits on what an agent can reach still hold when approval prompts and model safeguards miss."
-reviewed: 2026-11-11
+reviewed: 2026-11-21
 sidebar:
   order: 4
 tags: [security, prompt-injection, sandboxing, permissions, supply-chain, plugins]
@@ -27,6 +27,12 @@ sources:
     type: guide
     year: 2025
     note: "A peer-reviewed list of the main security risks of agentic applications, such as goal hijack, tool misuse, identity and privilege abuse and agentic supply chain flaws, with mitigations."
+  - title: Secure Coding with AI Cheat Sheet
+    author: OWASP Cheat Sheet Series
+    url: "https://cheatsheetseries.owasp.org/cheatsheets/Secure_Coding_with_AI_Cheat_Sheet.html"
+    type: guide
+    year: 2026
+    note: "OWASP's controls for the security risks of AI-assisted and agentic coding, in 14 sections. They cover sandboxes with task-scoped credentials, allow-lists for MCP servers, rules files such as AGENTS.md as a place to inject instructions, and CI agents that read attacker-controlled pull request text."
   - title: Careful adoption of agentic AI services
     author: "ASD's ACSC, CISA, NSA, Canadian Centre for Cyber Security, NCSC-NZ, NCSC-UK"
     url: "https://www.ncsc.govt.nz/protect-your-organisation/careful-adoption-of-agentic-ai-services/"

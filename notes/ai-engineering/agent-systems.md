@@ -2,7 +2,7 @@
 title: Agent system design
 description: "Designing software in which language model agents choose their own steps at runtime: how many agents, what they share and remember, and which tools they get."
 why: "Each added agent, step or tool raises cost and adds ways to fail, and the failures often look like normal output. These choices decide whether an agent feature holds up in production."
-reviewed: 2026-11-11
+reviewed: 2026-11-21
 sidebar:
   order: 4
 tags: [agents, multi-agent, tools, memory, reliability]
@@ -22,7 +22,7 @@ sources:
     note: "A follow-up to the same author's 2025 case against multi-agent systems: parallel agents that write make conflicting implicit decisions. It reports the patterns that do work in Cognition's products, where extra agents review, advise or search while writes stay with one agent. Cognition sells the Devin coding agent."
   - title: How we built our multi-agent research system
     author: "Anthropic (Jeremy Hadfield, Barry Zhang, Kenneth Lien, Florian Scholz, Jeremy Fox, Daniel Ford)"
-    url: "https://www.anthropic.com/engineering/multi-agent-research-system"
+    url: "https://www.anthropic.com/research/multi-agent-research-system"
     type: article
     year: 2025
     note: "A case where several agents pay off: a lead agent runs parallel subagents on broad research. It covers prompting the lead agent, resuming after errors and tracing decisions. Multi-agent runs used about 15 times the tokens of a chat; Anthropic sells the models and the Research feature it describes."
@@ -40,7 +40,7 @@ sources:
     note: "A taxonomy of 14 failure modes, developed on 150 traces and then applied to a dataset of over 1,600 annotated traces from seven multi-agent frameworks. It groups them into system design, misalignment between agents and task verification, and gives a shared vocabulary for reading traces."
   - title: "Writing effective tools for agents — with agents"
     author: "Anthropic (Ken Aizawa)"
-    url: "https://www.anthropic.com/engineering/writing-tools-for-agents"
+    url: "https://www.anthropic.com/research/writing-tools-for-agents"
     type: article
     year: 2025
     note: "A method for designing the tools an agent calls: prototype, build an evaluation of realistic multi-step tasks, then improve the tools against it. Its principles cover which tools to build, namespacing, returning meaningful context, token-efficient responses and tool descriptions. Anthropic sells the models it tested."

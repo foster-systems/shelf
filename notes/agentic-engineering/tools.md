@@ -2,7 +2,7 @@
 title: Coding agents
 description: "The main coding agents and the open formats they share for repository instructions, tools and skills."
 why: "The agent a team picks decides where its code runs, what it can reach and how it is configured. Open formats for instructions, tools and skills let a team switch or mix agents without rebuilding that setup."
-reviewed: 2026-11-11
+reviewed: 2026-11-21
 sidebar:
   order: 2
 tags: [coding-agents, mcp, agents-md, agent-skills, claude-code, codex, copilot, benchmarks]
