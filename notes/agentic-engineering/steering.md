@@ -2,7 +2,7 @@
 title: Steering coding agents
 description: "Setting up a codebase so agents do good work: instructions, specs, tests and automated checks."
 why: "An agent repeats the same mistakes until the team changes what it reads and what checks its work. That setup decides how much agent output a team can merge without rework."
-reviewed: 2026-11-11
+reviewed: 2026-11-21
 sidebar:
   order: 3
 tags: [harness-engineering, context-engineering, agents-md, spec-driven-development, testing]

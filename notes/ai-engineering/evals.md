@@ -2,7 +2,7 @@
 title: Evals
 description: "Testing whether an LLM application or agent does its job, during development and in production."
 why: "Model output varies from run to run, so a change that looks fine in one trial can break others. Evals tell a team whether a prompt, model or tool change made the product better or worse."
-reviewed: 2026-11-11
+reviewed: 2026-11-21
 sidebar:
   order: 3
 tags: [evals, llm-apps, agents, llm-as-judge, regression-testing, statistics]
@@ -16,7 +16,7 @@ sources:
     note: "An FAQ of about 60 questions on evaluating LLM products, drawn from teaching more than 5,000 engineers and product managers. It runs from error analysis of real traces and checking LLM judges against human labels to CI versus production monitoring and evals for RAG and agents. The authors call its advice sharp opinions, and the page promotes their paid course."
   - title: Demystifying evals for AI agents
     author: "Anthropic (Mikaela Grace, Jeremy Hadfield, Rodrigo Olivares, Jiri De Jonghe)"
-    url: "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents"
+    url: "https://www.anthropic.com/research/demystifying-evals-for-ai-agents"
     type: article
     year: 2026
     note: "A guide to evaluating agents that call tools over many turns. It defines tasks, trials and graders, separates capability evals from regression evals, and explains pass@k against pass^k for agents that must succeed every time. Drawn from Anthropic's own agents and its customers'."
