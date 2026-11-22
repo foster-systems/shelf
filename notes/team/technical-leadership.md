@@ -46,7 +46,7 @@ sources:
     note: "A co-founder of Segment on what a founding CTO does once a VP of Engineering arrives. He describes four archetypes: people leader, architect, R&D and customer-facing. He also covers what the CTO title is for and the work he took on after the hire."
   - title: "Engineering Management: The Pendulum Or The Ladder"
     author: Charity Majors
-    url: "https://charity.wtf/2019/01/04/engineering-management-the-pendulum-or-the-ladder/"
+    url: "https://charity.wtf/p/engineering-management-the-pendulum-or-the-ladder"
     type: article
     year: 2019
     note: "Honeycomb's co-founder on how much technical work a manager should keep and how fast technical skills fade. She advises leaving the critical path while staying close through code review, low-priority bugs and covering on-call."

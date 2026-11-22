@@ -16,7 +16,7 @@ sources:
     note: "Google's summary of two decades of its internal research on managers. Project Oxygen analysed over 10,000 data points from performance reviews and feedback surveys, plus interview notes, found that teams with highly effective managers got better results, were happier and quit less, and listed ten behaviours of such managers, such as coaching and not micromanaging. It also covers Project Aristotle on team effectiveness and the three manager responsibilities Google built from the research. The findings are Google's own."
   - title: "The Engineer/Manager Pendulum"
     author: Charity Majors
-    url: "https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/"
+    url: "https://charity.wtf/p/the-engineer-manager-pendulum"
     type: article
     year: 2017
     note: "Honeycomb's co-founder argues that management is a change of profession, not a promotion, and that engineers can move between management and hands-on work more than once. She holds that the best frontline managers are never more than two or three years from hands-on work. She calls the hybrid manager and tech lead unstable, because engineering skills decay while managing and the two kinds of work cannot be done at once."

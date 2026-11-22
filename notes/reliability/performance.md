@@ -2,7 +2,7 @@
 title: Performance and capacity
 description: "Keeping a product fast as its load grows: measuring latency, load testing, profiling and planning capacity ahead of demand."
 why: "Latency climbs steeply as servers near full use, so a product can slow down long before anything fails. Load tests, profiles and capacity plans find the limit and its cause before customers do."
-reviewed: 2026-11-16
+reviewed: 2026-11-22
 sidebar:
   order: 3
 tags: [performance, latency, load-testing, profiling, capacity-planning]

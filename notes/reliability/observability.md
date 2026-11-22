@@ -2,7 +2,7 @@
 title: Observability
 description: "Understanding what running systems do through logs, metrics and traces."
 why: "A small team debugs production with the telemetry it already has, and that telemetry is often one of its largest tool bills. Instrumenting with OpenTelemetry keeps the choice of backend open."
-reviewed: 2026-11-11
+reviewed: 2026-11-22
 sidebar:
   order: 1
 tags: [observability, logs, metrics, traces, opentelemetry, wide-events]
@@ -13,13 +13,13 @@ sources:
     url: "https://opentelemetry.io/docs/what-is-opentelemetry/"
     type: docs
     year: 2026
-    note: "The project's introduction to its vendor-neutral framework for generating, exporting and collecting traces, metrics and logs. It is not a backend: storage and display are left to other tools. It is a Cloud Native Computing Foundation project, formed by merging OpenTracing and OpenCensus."
+    note: "The project's introduction to its vendor-neutral framework for generating, exporting and collecting traces, metrics and logs. It is not a backend: storage and display are left to other tools. It was formed by merging OpenTracing and OpenCensus, and became a graduated Cloud Native Computing Foundation project in May 2026."
   - title: Monitoring Distributed Systems
     author: Rob Ewaschuk
     url: "https://sre.google/sre-book/monitoring-distributed-systems/"
     type: article
-    year: 2017
-    note: "A chapter of Google's SRE book that defines the four golden signals: latency, traffic, errors and saturation. It separates symptoms from causes and sets tests for whether an alert should page someone."
+    year: 2016
+    note: "A chapter of the 2016 first edition of Google's SRE book that defines the four golden signals: latency, traffic, errors and saturation. It separates symptoms from causes and sets tests for whether an alert should page someone."
   - title: Dapper, a Large-Scale Distributed Systems Tracing Infrastructure
     author: Benjamin H. Sigelman et al.
     url: "https://research.google/pubs/dapper-a-large-scale-distributed-systems-tracing-infrastructure/"

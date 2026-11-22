@@ -151,7 +151,7 @@ The people who build the software and how they are led.
 
 What to follow as technology, practice and regulation move: reports, newsletters and live feeds, people, conferences, startup writing and EU regulatory change.
 
-- [Reports and radars](notes/watch/reports-and-radars.md): Recurring reports and radars on technology choices, software delivery, AI and security breaches.
+- [Reports and radars](notes/watch/reports-and-radars.md): Recurring reports and radars on technology choices, software delivery, developer activity, AI and security breaches.
 - [Newsletters and live feeds](notes/watch/newsletters.md): Newsletters on AI, security, reliability and engineering leadership, and live feeds of what practitioners read and star.
 - [People](notes/watch/people.md): Individuals whose writing shapes engineering practice today, across software design, AI, observability and leadership.
 - [Conferences](notes/watch/conferences.md): Recurring conferences on software architecture, AI engineering, reliability, cloud infrastructure and application security, with recordings of their talks online.
