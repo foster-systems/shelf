@@ -2,7 +2,7 @@
 title: Newsletters and live feeds
 description: "Newsletters on AI, security, reliability and engineering leadership, and live feeds of what practitioners read and star."
 why: "One person covering a company's whole technology cannot watch every field. A few curated newsletters catch the changes that matter, and live feeds show what practitioners read and build this week."
-reviewed: 2026-11-11
+reviewed: 2026-11-22
 sidebar:
   order: 2
 tags: [newsletters, feeds, trending, ai, security, reliability, leadership]
@@ -37,7 +37,7 @@ sources:
     url: "https://softwareleadweekly.com/issues/"
     type: feed
     year: 2026
-    note: "A free weekly email of articles on people, culture and leadership in software teams, curated by Oren Ellenbogen. The archive holds more than 700 issues."
+    note: "A free weekly email of articles on people, culture and leadership in software teams, curated by Oren Ellenbogen. Its archive lists 700 issues as of November 2026."
   - title: Hacker News
     author: Y Combinator
     url: "https://news.ycombinator.com/"

@@ -2,7 +2,7 @@
 title: CI/CD
 description: "How code gets from commit to production: continuous integration and delivery, branching, deployment safety and feature flags."
 why: "A small team ships often only when each release is cheap and easy to undo. How changes are integrated, deployed and switched on decides how fast a company learns from users and how much a bad deploy costs."
-reviewed: 2026-11-11
+reviewed: 2026-11-22
 sidebar:
   order: 1
 tags: [continuous-integration, continuous-delivery, deployment, feature-flags, trunk-based-development, canary]

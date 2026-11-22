@@ -1,8 +1,8 @@
 ---
 title: Reports and radars
-description: "Recurring reports and radars on technology choices, software delivery, AI and security breaches."
+description: "Recurring reports and radars on technology choices, software delivery, developer activity, AI and security breaches."
 why: "A small company cannot run its own market research. These editions show which tools practitioners adopt, what delivery research supports, where AI is heading and how attackers get in, on a known schedule."
-reviewed: 2026-11-21
+reviewed: 2026-11-22
 sidebar:
   order: 1
 tags: [trends, surveys, radar, research, ai, security]
@@ -38,6 +38,13 @@ sources:
     type: guide
     year: 2026
     note: "An annual survey of people who code, with sections on work, AI, technology, community and knowledge. The 2026 edition had 30,903 responses from 169 countries. The data is published under the Open Database License. Stack Overflow, which sells developer products and data licences, recruits respondents through its own site."
+  - title: Octoverse
+    author: GitHub
+    url: "https://octoverse.github.com/"
+    agents: "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/"
+    type: guide
+    year: 2026
+    note: "GitHub's annual report on activity on its platform: developers, repositories, programming languages, open source and the use of AI agents. Its figures come from measured activity on GitHub, with spam accounts, staff and identifiable bots left out. The 2026 edition, from October 2026, covers public and private repositories from October 2025 to September 2026. GitHub, part of Microsoft, sells Copilot, an AI coding assistant."
   - title: Data Breach Investigations Report (DBIR)
     author: Verizon
     url: "https://www.verizon.com/business/resources/reports/dbir/"

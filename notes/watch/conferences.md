@@ -2,7 +2,7 @@
 title: Conferences
 description: "Recurring conferences on software architecture, AI engineering, reliability, cloud infrastructure and application security, with recordings of their talks online."
 why: "At these events practitioners report what they built and what broke. Recorded talks let a small team follow each field without travelling."
-reviewed: 2026-11-11
+reviewed: 2026-11-22
 sidebar:
   order: 4
 tags: [conferences, talks, architecture, ai, reliability, cloud, security]
@@ -16,7 +16,7 @@ sources:
     note: "InfoQ's archive of recorded talks from QCon, QCon AI and InfoQ's online events, aimed at senior software developers. Recent talk pages include a full transcript. QCon runs in San Francisco and London, and QCon AI in New York and Boston. C4Media, the company behind InfoQ and QCon, sells conference tickets, sponsorships and certifications, and InfoQ is paid for by advertising."
   - title: AI Engineer
     author: AI Engineer (Software 3.0 Inc)
-    url: "https://www.ai.engineer/talks"
+    url: "https://ai.engineer/talks"
     type: talk
     year: 2026
     note: "A searchable index of talks from the AI Engineer conferences, filtered by topic, event, year, organisation, speaker and length. The main events run in San Francisco, New York and London. Software 3.0 Inc, a company co-founded by swyx of Latent Space, runs them with more than 200 sponsors and expo partners, and many speakers come from AI vendors."

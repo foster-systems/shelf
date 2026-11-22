@@ -2,7 +2,7 @@
 title: Incidents
 description: "Responding to production failures and learning from them: severity, roles, communication and post-incident reviews."
 why: "Incidents test whether a team can communicate and restore service under pressure, in front of its customers. A small company needs a simple response process before its first serious outage, and a habit of learning from each one."
-reviewed: 2026-11-11
+reviewed: 2026-11-22
 sidebar:
   order: 4
 tags: [incidents, incident-response, postmortems, incident-metrics]
@@ -18,8 +18,8 @@ sources:
     author: John Lunney and Sue Lueder
     url: "https://sre.google/sre-book/postmortem-culture/"
     type: article
-    year: 2017
-    note: "A chapter of Google's SRE book on blameless postmortems: what triggers one, what it records and how it is reviewed and shared."
+    year: 2016
+    note: "A chapter of the 2016 first edition of Google's SRE book on blameless postmortems: what triggers one, what it records and how it is reviewed and shared."
   - title: Debriefing Facilitation Guide
     author: John Allspaw, Morgan Evans and Daniel Schauenberg
     url: "https://github.com/etsy/DebriefingFacilitationGuide"

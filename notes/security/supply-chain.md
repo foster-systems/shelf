@@ -2,7 +2,7 @@
 title: Software supply chain
 description: "Keeping dependencies, build pipelines and releases trustworthy: dependency choice and scanning, CI hardening, provenance, software bills of materials and signing."
 why: "Most code a small company ships comes from dependencies, and its CI pipeline holds the tokens to publish and deploy. A poisoned package or a stolen CI token reaches production through the normal build."
-reviewed: 2026-11-11
+reviewed: 2026-11-22
 sidebar:
   order: 5
 tags: [security, supply-chain, slsa, sbom, dependencies, ci, signing]
@@ -31,7 +31,7 @@ sources:
     url: "https://docs.github.com/en/actions/reference/security/secure-use"
     type: docs
     year: 2026
-    note: "GitHub's security reference for its CI service. It covers least-privilege tokens, secrets, script injection, the risk of privileged triggers such as pull_request_target running untrusted pull request code, and pinning third-party actions to a full commit SHA or a lockfile. The vendor's guidance for its own product."
+    note: "GitHub's security reference for its CI service. It covers least-privilege tokens, secrets, script injection, the risk of privileged triggers such as pull_request_target running untrusted pull request code, and locking third-party actions with a workflow lockfile, which it calls the strongest protection, or else pinning them to a full commit SHA. The vendor's guidance for its own product."
   - title: "2026 Minimum Elements for a Software Bill of Materials (SBOM)"
     author: "CISA, NSA, FBI and international partners"
     url: "https://www.cisa.gov/resources-tools/resources/2026-minimum-elements-software-bill-materials-sbom"

@@ -2,7 +2,7 @@
 title: Service level objectives
 description: "Reliability targets based on what users experience, and the error budgets that follow from them."
 why: "An SLO gives a team a number for deciding when to ship features and when to work on reliability. An error budget makes that decision agreed in advance, and the SLO sets the internal target behind any SLA the company signs."
-reviewed: 2026-11-11
+reviewed: 2026-11-22
 sidebar:
   order: 2
 tags: [slo, sli, error-budget, availability, alerting]
@@ -12,14 +12,14 @@ sources:
     author: Chris Jones, John Wilkes and Niall Murphy
     url: "https://sre.google/sre-book/service-level-objectives/"
     type: article
-    year: 2017
-    note: "A chapter of Google's SRE book that defines SLIs, SLOs and SLAs. It covers which indicators to measure for different kinds of system and how to choose targets."
+    year: 2016
+    note: "A chapter of the 2016 first edition of Google's SRE book that defines SLIs, SLOs and SLAs. It covers which indicators to measure for different kinds of system and how to choose targets."
   - title: Embracing Risk
     author: Marc Alvidrez
     url: "https://sre.google/sre-book/embracing-risk/"
     type: article
-    year: 2017
-    note: "A chapter of Google's SRE book on setting a reliability level that fits each service, since extra reliability costs more and slows feature work. It ends with the case for error budgets."
+    year: 2016
+    note: "A chapter of the 2016 first edition of Google's SRE book on setting a reliability level that fits each service, since extra reliability costs more and slows feature work. It ends with the case for error budgets."
   - title: Implementing SLOs
     author: Steven Thurgood and David Ferguson
     url: "https://sre.google/workbook/implementing-slos/"

@@ -2,7 +2,7 @@
 title: Delivery metrics
 description: "How to measure software delivery and developer productivity: DORA metrics, the SPACE and developer experience frameworks, and the limits of measurement."
 why: "Founders and boards ask whether engineering is getting faster, and the wrong metric does damage once it becomes a target. Research links a few delivery measures to better results, and counts of output such as lines of code mislead."
-reviewed: 2026-11-11
+reviewed: 2026-11-22
 sidebar:
   order: 4
 tags: [dora, space, developer-experience, productivity, metrics]
@@ -42,7 +42,7 @@ sources:
     note: "A peer-reviewed study of which of 39 factors affect how productive Google's developers feel, using panel data over time. Code quality, technical debt, tools, team communication, goals and organizational change were linked to productivity. Rises in perceived code quality tended to be followed by rises in productivity, and not the reverse."
   - title: "Measuring developer productivity? A response to McKinsey"
     author: "Kent Beck, Gergely Orosz"
-    url: "https://tidyfirst.substack.com/p/measuring-developer-productivity"
+    url: "https://newsletter.kentbeck.com/p/measuring-developer-productivity"
     type: article
     year: 2023
     note: "Kent Beck's version of the first part of an essay written with Gergely Orosz. It models engineering work as effort, output, outcome and impact, and asks who wants productivity measured and why. It shows how measuring effort and output distorts behaviour, with an example from survey scores at Facebook."

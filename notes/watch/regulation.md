@@ -2,7 +2,7 @@
 title: Regulatory change
 description: "Official trackers, decision databases and newsletters that follow new EU rules on data, AI and cybersecurity, and how regulators apply them."
 why: "New EU rules and guidance on data, AI and cybersecurity arrive every year, with deadlines and fines. These sources show what is coming, and how regulators read and enforce the rules already in force."
-reviewed: 2026-11-11
+reviewed: 2026-11-22
 sidebar:
   order: 6
 tags: [regulation, eu, gdpr, ai-act, cybersecurity, enforcement]
@@ -10,7 +10,7 @@ related: [law-and-compliance/gdpr, law-and-compliance/ai-act, law-and-compliance
 sources:
   - title: Legislative Observatory
     author: European Parliament
-    url: "https://oeil.secure.europarl.europa.eu/oeil/en/"
+    url: "https://oeil.europarl.europa.eu/oeil/en/"
     type: tool
     year: 2026
     note: "The European Parliament's database of EU law-making. Each procedure file shows its stage, key events and dates, documents with summaries, and the committees and rapporteurs responsible. The home page lists the current plenary session."
@@ -23,6 +23,7 @@ sources:
   - title: GDPRhub
     author: noyb
     url: "https://gdprhub.eu/"
+    agents: "https://web.archive.org/web/20261118021841/https://gdprhub.eu/index.php?title=Welcome_to_GDPRhub"
     type: tool
     year: 2026
     note: "A free wiki of English summaries of more than 4,500 GDPR decisions by data protection authorities and courts across Europe, searchable by GDPR article, authority, country and year. The weekly GDPRtoday email lists new decisions. noyb, a privacy non-profit that brings GDPR complaints and lawsuits, runs it with volunteers."
@@ -31,7 +32,7 @@ sources:
     url: "https://www.enforcementtracker.com/"
     type: tool
     year: 2026
-    note: "A free database of publicly known fines under the GDPR in the EU and EEA, filtered by country, sector and article, with statistics. It listed 3,417 enforcement actions in November 2026. CMS, a law firm, runs it."
+    note: "A free database of publicly known fines under the GDPR in the EU and EEA, filtered by country, sector and article, with statistics. It is updated hourly and listed more than 3,400 fines in November 2026. CMS, a law firm, runs it."
   - title: The EU AI Act Newsletter
     author: Risto Uuk, Future of Life Institute
     url: "https://artificialintelligenceact.substack.com/archive"
