@@ -2,7 +2,7 @@
 title: Runway and financial planning
 description: "How a software company measures burn and runway, tells whether it reaches profit on the cash it has, and plans revenue, headcount and spending."
 why: "A startup dies when it runs out of cash, and founders often find out too late to raise more or cut costs. Hiring is usually the largest cost, so each hiring plan is also a decision about runway."
-reviewed: 2026-11-11
+reviewed: 2026-11-23
 sidebar:
   order: 6
 tags: [runway, burn-rate, default-alive, financial-model, budgeting, cash]
@@ -43,6 +43,6 @@ sources:
     author: Dalton Caldwell
     url: "https://www.ycombinator.com/blog/advice-startups-running-out-of-money/"
     type: article
-    year: 2016
+    year: 2015
     note: "Advice from Dalton Caldwell, then a Y Combinator partner, for funded startups with 12 months of runway or less. It lists beliefs that delay cost cuts, says payroll is the usual source of high burn, and explains why waiting weakens the company's position with investors and acquirers. Below about two months of cash it advises an orderly shutdown that pays employees, taxes and debts."
 ---

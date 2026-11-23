@@ -1,8 +1,8 @@
 ---
 title: Levels, pay and performance
 description: "How a software company defines engineering levels, sets pay, and runs performance reviews and promotions."
-why: "Levels and pay ranges set for the first hires are copied into every later offer, and unequal pay for the same work is costly to undo. In the EU, the Pay Transparency Directive requires employers to tell applicants the starting pay or its range before pay is negotiated, and to use objective criteria for pay and progression."
-reviewed: 2026-11-11
+why: "Levels and pay ranges set for the first hires are copied into every later offer, and unequal pay for the same work is costly to undo. In the EU, the Pay Transparency Directive has Member States require employers to tell applicants the starting pay or its range before pay is negotiated, and to use objective criteria for pay and progression."
+reviewed: 2026-11-23
 sidebar:
   order: 2
 tags: [career-ladders, compensation, performance-reviews, pay-transparency]
@@ -45,5 +45,5 @@ sources:
     agents: "https://publications.europa.eu/resource/cellar/5bbb9daf-f470-11ed-a05c-01aa75ed71a1.0006.03/DOC_1"
     type: law
     year: 2023
-    note: "The EU directive that gives job applicants the right to the starting pay or its range in time for an informed pay negotiation, for example in the job notice or before the interview, and bars employers from asking about pay history. Employers must give workers the criteria for pay and progression, workers can ask for average pay by sex for the same work, and employers with 100 or more workers report gender pay gaps. Member States had to make it national law by 7 June 2026."
+    note: "The EU directive that gives job applicants the right to the starting pay or its range in time for an informed pay negotiation, for example in the job notice or before the interview, and bars employers from asking about pay history. Employers must give workers the criteria for pay and progression, workers can ask for average pay by sex for the same work, and employers with 100 or more workers report gender pay gaps. Member States had to make it national law by 7 June 2026, and its duties reach employers through each country's law."
 ---

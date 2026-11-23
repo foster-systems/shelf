@@ -2,7 +2,7 @@
 title: SaaS metrics
 description: "How recurring revenue, retention, churn, customer acquisition cost and gross margin are defined, calculated and compared with peers."
 why: "Boards and investors read these numbers, and product and billing data feed them. Hosting, AI inference and support costs sit inside gross margin, so technical decisions show up in the metrics."
-reviewed: 2026-11-11
+reviewed: 2026-11-23
 sidebar:
   order: 5
 tags: [saas, metrics, arr, churn, retention, cac, gross-margin, benchmarks]
@@ -40,7 +40,7 @@ sources:
     note: "A SaaS finance executive, writing as The SaaS CFO, sets out which costs belong in cost of goods sold, including hosting, support and customer success. It shows how to calculate overall margin and margin per revenue stream. The author is a founding member of the SaaS Metrics Standards Board and sells SaaS finance courses, templates and fractional CFO services on the same site."
   - title: "What is a Good Retention Rate for a Private SaaS Company in 2025?"
     author: SaaS Capital
-    url: "https://www.saas-capital.com/research/saas-retention-benchmarks-for-private-b2b-companies/"
+    url: "https://www.saas-capital.com/blog-posts/what-is-a-good-retention-rate-for-a-private-saas-company/"
     type: article
     year: 2025
     note: "Net and gross revenue retention benchmarks from an annual survey of private B2B SaaS companies, run for more than a decade. It defines both metrics, breaks them down by annual contract value with quartiles, and shows how retention relates to growth. SaaS Capital lends to SaaS companies."

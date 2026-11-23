@@ -2,7 +2,7 @@
 title: Team design
 description: "How engineering teams are split and sized, how they work together, and where they work: Conway's law, Team Topologies, team size, and remote and office work."
 why: "Once a company outgrows one informal group, team boundaries start to shape the software. Team splits and the remote or office choice are cheaper to set early than to change later."
-reviewed: 2026-11-11
+reviewed: 2026-11-23
 sidebar:
   order: 3
 tags: [organisation, conways-law, team-topologies, remote-work]
@@ -41,7 +41,7 @@ sources:
   - title: "Hybrid working from home improves retention without damaging performance"
     author: Nicholas Bloom, Ruobing Han, James Liang
     url: "https://www.nature.com/articles/s41586-024-07500-2"
-    agents: "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11208135/fullTextXML"
+    agents: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11208135/"
     type: paper
     year: 2024
     note: "A randomised trial with 1,612 engineering, marketing and finance staff at Trip.com, where half could work from home two days a week. Hybrid work cut quit rates by a third and did not change performance reviews, promotions or lines of code written. James Liang co-founded and chairs Trip.com."
@@ -50,5 +50,5 @@ sources:
     url: "https://www.nber.org/papers/w31880"
     type: paper
     year: 2026
-    note: "A study of software engineers at a Fortune 500 firm, using office closures and return-to-office mandates as natural experiments. Sitting near teammates raised coding feedback by 18.3% and improved code quality, mostly for younger and less-tenured engineers, while experienced engineers wrote less code."
+    note: "A study of software engineers at a Fortune 500 firm, published in the Quarterly Journal of Economics, using office closures and return-to-office mandates as natural experiments. Sitting near teammates raised coding feedback by 18.3% and improved code quality, mostly for younger and less-tenured engineers, while experienced engineers wrote less code."
 ---

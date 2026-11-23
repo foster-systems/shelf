@@ -2,7 +2,7 @@
 title: Product analytics
 description: "Tracking what users do in a product as events, and using that data to answer product questions and judge experiments."
 why: "Product decisions at a small company rest on a few numbers, such as activation and retention. Those numbers depend on the events behind them, and past events are hard to repair."
-reviewed: 2026-11-11
+reviewed: 2026-11-23
 sidebar:
   order: 4
 tags: [event-tracking, tracking-plan, metrics, retention, experimentation]

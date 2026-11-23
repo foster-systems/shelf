@@ -2,7 +2,7 @@
 title: VAT and sales tax
 description: "The taxes charged on sales of software, subscriptions and digital services: EU VAT and its One Stop Shop, electronic invoicing, and US sales tax."
 why: "VAT on digital services sold to consumers in other EU countries is due in the customer's country, for an EU seller once those sales pass EUR 10,000 a year, so checkout must record where each customer is and whether it is a business. EU countries are making electronic invoices mandatory, and from 2030 they are required for sales between businesses in different EU countries. US states can require sellers with no presence there to collect their sales tax."
-reviewed: 2026-11-15
+reviewed: 2026-11-23
 sidebar:
   order: 9
 tags: [vat, sales-tax, one-stop-shop, e-invoicing, vida, eu-law, compliance, billing]

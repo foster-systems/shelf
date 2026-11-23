@@ -2,10 +2,10 @@
 title: Equity and stock options
 description: "How founders split ownership, how founder shares vest and are taxed, and how a company sizes and runs stock options for employees."
 why: "Equity decisions made at incorporation and with the first hires are hard to undo and can cost founders and employees money or control years later. Stock options are also how a young company competes for engineers against larger employers' salaries, and the rules differ by country."
-reviewed: 2026-11-11
+reviewed: 2026-11-23
 sidebar:
   order: 8
-tags: [equity, cap-table, vesting, stock-options, esop, founders, 83b]
+tags: [equity, cap-table, vesting, stock-options, esop, founders, 83b, qsbs]
 related: [product-and-business/fundraising-and-due-diligence, team/hiring, team/levels-and-pay]
 sources:
   - title: "How to Split Equity Among Co-Founders"
@@ -28,7 +28,7 @@ sources:
     note: "A US law firm's advice on vesting founders' restricted stock: the standard four-year schedule with a one-year cliff, the company's right to buy back unvested shares, and when vesting starts. It recommends an 83(b) election within 30 days and double-trigger acceleration on a sale over single-trigger. It warns that unusual terms invite investors to reset vesting at the first institutional round."
   - title: "What is a Section 83(b) Election and Why Should You File One?"
     author: Matthew Bartus, Cooley GO
-    url: "https://www.cooleygo.com/section-83b-election-file-one/"
+    url: "https://www.cooleygo.com/what-is-a-section-83b-election/"
     type: guide
     year: 2025
     note: "A partner at the law firm Cooley explains the US Section 83(b) election, which taxes stock that is subject to vesting when it is granted and not as it vests. Two worked examples show the tax difference, and the election must be filed within 30 days of the grant. It covers restricted stock such as founders' shares; options follow other rules."
@@ -44,4 +44,10 @@ sources:
     type: guide
     year: 2018
     note: "A venture firm's free book on employee stock options for European startups, in its second edition. It draws on cap tables from 73 portfolio companies, more than 4,000 option grants, founder interviews and a survey, and covers how ownership changes over rounds, how much to grant, vesting, leaver terms and country tax rules. The country rules were last updated between 2018 and early 2021 and should be checked against current law."
+  - title: "What is Qualified Small Business Stock and Why Does It Matter for You and Your Startup?"
+    author: Cooley GO
+    url: "https://www.cooleygo.com/what-is-qualified-small-business-stock-and-why-does-it-matter-for-you-and-your-startup/"
+    type: guide
+    year: 2026
+    note: "A guide from the law firm Cooley to qualified small business stock, a US rule that lets holders of stock in a small C corporation exclude part or all of their gain on its sale from federal tax. It sets out the tests for the company and the holder, and the rules for stock acquired after 4 July 2025: exclusions of 50%, 75% and 100% after three, four and five years, and a $75 million gross asset limit. It also covers rolling the gain into other qualifying stock."
 ---

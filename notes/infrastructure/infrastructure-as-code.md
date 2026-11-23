@@ -2,7 +2,7 @@
 title: Infrastructure as code
 description: "Defining servers, networks and cloud services in versioned code that a tool applies, instead of setting them up by hand."
 why: "A setup built by hand cannot be rebuilt, reviewed or copied to a new environment, and it drifts. Code keeps a small team's infrastructure repeatable and gives coding agents a reviewable way to change it."
-reviewed: 2026-11-11
+reviewed: 2026-11-23
 sidebar:
   order: 2
 tags: [infrastructure-as-code, terraform, opentofu, pulumi, environments]
@@ -40,7 +40,7 @@ sources:
     note: "An infrastructure as code tool whose programs are written in general-purpose languages such as TypeScript, Python and Go; it also accepts YAML and HCL. A deployment engine compares the program with the current state and makes the changes. The tool is open source; the vendor sells Pulumi Cloud, a hosted backend for state, secrets and policies."
   - title: A Comprehensive Guide to Terraform
     author: Yevgeniy Brikman
-    url: "https://gruntwork.io/blog/a-comprehensive-guide-to-terraform"
+    url: "https://www.gruntwork.io/blog/a-comprehensive-guide-to-terraform"
     type: guide
     year: 2022
     note: "A six-part series on why to use infrastructure as code, how Terraform compares with other tools, managing state, reusable modules, pitfalls and using Terraform as a team. It was first written in 2016 and updated for Terraform 1.2 in 2022. The author co-founded Gruntwork, which sells Terraform modules and tooling."

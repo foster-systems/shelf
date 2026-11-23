@@ -2,7 +2,7 @@
 title: Hosting and compute
 description: "Choosing what runs the application: a platform as a service, serverless functions, containers on an orchestrator such as Kubernetes, or plain servers."
 why: "A small team has to operate every layer it adopts, and the choice of runtime sets much of its operations work and hosting bill. Moving off a runtime later means rewriting deployment, configuration and often the application."
-reviewed: 2026-11-11
+reviewed: 2026-11-23
 sidebar:
   order: 3
 tags: [hosting, paas, serverless, containers, kubernetes, deployment]
@@ -13,7 +13,7 @@ sources:
     url: "https://12factor.net/"
     type: guide
     year: 2011
-    note: "Twelve rules for building web applications that any platform can run: config in the environment, stateless processes, backing services as attached resources, logs as event streams and others. Its authors drew on running hundreds of thousands of apps on Heroku, which Wiggins co-founded. An open project is now revising it for current runtimes."
+    note: "Twelve rules for building web applications that any platform can run: config in the environment, stateless processes, backing services as attached resources, logs as event streams and others. Its authors drew on watching hundreds of thousands of apps run on Heroku, which Wiggins co-founded. The published text dates from 2017; an open source project started in 2024 to revise it."
   - title: "Cloud Programming Simplified: A Berkeley View on Serverless Computing"
     author: "Eric Jonas, Johann Schleier-Smith and others (UC Berkeley)"
     url: "https://arxiv.org/abs/1902.03383"
@@ -34,7 +34,7 @@ sources:
     note: "An argument that Kubernetes is a poor fit for small teams because of its moving parts and its cost to development and debugging. It cites a 2019 security review of the Kubernetes code. It lists simpler options: one large VM, Heroku-style platforms, Docker Compose and Nomad."
   - title: Choosing an AWS container service
     author: Amazon Web Services
-    url: "https://docs.aws.amazon.com/decision-guides/latest/containers-on-aws-how-to-choose/choosing-aws-container-service.html"
+    url: "https://docs.aws.amazon.com/decision-guides/latest/decision-guides/choosing-aws-container-service.html"
     type: guide
     year: 2026
     note: "AWS's decision guide across three layers: orchestration, compute capacity and higher-level services that hide the orchestrator. It names the organization's size and skills as a main factor and notes that running Kubernetes well takes a strong operations team. It is the vendor's account, limited to its own services."

@@ -2,7 +2,7 @@
 title: Enterprise readiness
 description: "The features and assurances larger customers require before they buy a SaaS product: single sign-on, user provisioning, audit logs, roles and security reviews."
 why: "Enterprise deals often depend on these features, and each one is easier to build early than to retrofit. Their identity standards are changing, so what counts as enterprise-grade keeps moving."
-reviewed: 2026-11-11
+reviewed: 2026-11-23
 sidebar:
   order: 4
 tags: [enterprise, sso, scim, provisioning, audit-logs, rbac, security-questionnaire, saas]
@@ -28,7 +28,7 @@ sources:
     note: "The IETF standard HTTP protocol for creating, reading, updating and deleting users and groups across domains. Identity providers use it to provision and deprovision accounts in SaaS applications. It was updated by RFC 9865 (cursor pagination, October 2025) and RFC 9967 (security event tokens, May 2026)."
   - title: "STAR Level 1: Security Questionnaire (CAIQ v4.1)"
     author: Cloud Security Alliance
-    url: "https://cloudsecurityalliance.org/artifacts/star-level-1-security-questionnaire-caiq-v4"
+    url: "https://cloudsecurityalliance.org/artifacts/star-level-1-security-questionnaire-caiq-v4-1"
     type: framework
     year: 2026
     note: "A standard set of yes-or-no questions on a cloud provider's security controls, mapped to the CSA Cloud Controls Matrix. Customers and auditors use it to assess providers, and a provider can publish its answers in the CSA STAR Registry. It downloads without an account."

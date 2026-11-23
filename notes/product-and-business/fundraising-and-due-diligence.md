@@ -2,7 +2,7 @@
 title: Fundraising and due diligence
 description: "How early-stage software companies raise money, the standard funding documents, and how investors run technical due diligence."
 why: "Funding terms decide who controls the company and how much the founders keep. The person running technology answers investors' technical questions and supplies much of what they review, and having it ready shortens closing."
-reviewed: 2026-11-11
+reviewed: 2026-11-23
 sidebar:
   order: 7
 tags: [fundraising, due-diligence, safe, term-sheet, venture-capital]
@@ -22,7 +22,7 @@ sources:
     note: "A summary of what founders need to know to raise seed money, by a former President of Y Combinator. It covers when to raise, how much, convertible notes, SAFEs and priced rounds, valuation, meeting investors and closing. Its round sizes, valuations and costs, such as about $15k a month for an engineer, are 2016 figures."
   - title: "The SAFE: The standard way startups raise money"
     author: Y Combinator
-    url: "https://www.ycombinator.com/documents"
+    url: "https://www.ycombinator.com/safe"
     type: docs
     year: 2026
     note: "Y Combinator's free standard forms for the post-money SAFE, an agreement that turns an investment now into shares at a later priced round. It has US versions with a valuation cap, a discount or an MFN term, a pro rata side letter, and a user guide with sample conversion math. Versions for Canada, the Cayman Islands and Singapore are listed, with advice to consult a local lawyer."
