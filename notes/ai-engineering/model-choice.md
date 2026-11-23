@@ -2,7 +2,7 @@
 title: Choosing models per workload
 description: "Deciding which model runs which work and where it is hosted, and checking the choice on the team's own tasks."
 why: "Model and host set the cost, quality and data exposure of every AI feature, and prices and rankings change every few months. A team needs a repeatable way to choose and to check the choice."
-reviewed: 2026-11-11
+reviewed: 2026-11-23
 sidebar:
   order: 5
 tags: [models, open-weight, routing, inference, cost, benchmarks]
@@ -16,10 +16,10 @@ sources:
     note: "Voluntary practices from a US government standards body for benchmarking language models and agents, including to compare systems for deployment. It covers choosing benchmarks, keeping conditions close to real use, recording exact model versions and reporting uncertainty. NIST lists it as an initial public draft."
   - title: "FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance"
     author: "Lingjiao Chen, Matei Zaharia, James Zou (Stanford, UC Berkeley)"
-    url: "https://lchen001.github.io/papers/2024_FrugalGPT_TMLR.pdf"
+    url: "https://lingjiaochen.com/papers/2024_FrugalGPT_TMLR.pdf"
     type: paper
     year: 2024
-    note: "The paper behind model cascades, published in TMLR: send a query to a cheap model first, score its answer, and call a stronger model only when the score is below a threshold. It finds API prices differing by two orders of magnitude and, on classification, reading and science question tasks, matches the best single model at up to 98% lower cost. The models it tested are from 2024."
+    note: "The paper behind model cascades, published in TMLR: send a query to a cheap model first, score its answer, and call a stronger model only when the score is below a threshold. It finds API prices differing by two orders of magnitude and, on classification, reading and science question tasks, matches the best single model at up to 98% lower cost. Its main results use models and prices from March 2023, with a rerun on models priced in November 2024."
   - title: "Launching the Endpoint Accuracy Index: Same Model, Different Accuracy"
     author: Artificial Analysis
     url: "https://artificialanalysis.ai/articles/endpoint-accuracy-index"
@@ -43,5 +43,5 @@ sources:
     url: "https://www.thoughtworks.com/insights/blog/generative-ai/renting-the-frontier--owning-the-core-ip--how-we-cut-ai-forecast"
     type: article
     year: 2026
-    note: "A method for choosing per workload: place each on a grid of differentiation against data sovereignty, replay real traffic against candidate models and hosts, and simulate costs. Its 72% saving is a worst-case forecast for 2028, and Thoughtworks sells the method and tooling to clients through its AI Factory team; the post also promotes its partners Crusoe and NVIDIA."
+    note: "A method for choosing per workload: place each on a grid of differentiation against the security and sovereignty the work needs, replay real traffic against candidate models and hosts, and simulate costs. Its 72% saving is a worst-case forecast for 2028, and Thoughtworks sells the method and tooling to clients through its AI Factory team; the post also promotes its partners Crusoe and NVIDIA."
 ---

@@ -2,7 +2,7 @@
 title: EU AI Act
 description: "The EU regulation on AI systems and general-purpose AI models, as amended by the Digital Omnibus on AI in 2026."
 why: "It applies to companies that put AI systems on the EU market or use them in the EU, and to others whose AI output is used there. Duties depend on the company's role, provider or deployer, and on the system's risk tier. A product with a chatbot has had transparency duties since August 2026. Generative systems already on the market by then must mark their output as AI-generated from December 2026, and most high-risk duties apply from December 2027."
-reviewed: 2026-11-11
+reviewed: 2026-11-23
 sidebar:
   order: 3
 tags: [ai-act, eu-law, compliance, transparency, gpai, high-risk, gdpr]
@@ -47,10 +47,10 @@ sources:
     type: guide
     year: 2024
     note: "The EDPB's opinion, requested by the Irish authority, on how the GDPR applies to AI models. It sets out when a model trained on personal data can count as anonymous, how to assess legitimate interest as a legal basis for developing and deploying a model, and what follows when a model was trained on unlawfully processed data."
-  - title: "AI system development: CNIL's recommendations to comply with the GDPR"
-    author: CNIL
-    url: "https://www.cnil.fr/en/ai-system-development-cnils-recommendations-to-comply-gdpr"
+  - title: Code of Practice on Transparency of AI-Generated Content
+    author: European Commission
+    url: "https://ec.europa.eu/newsroom/dae/redirection/document/129555"
     type: guide
     year: 2026
-    note: "The French data protection authority's recommendations for building AI systems that use personal data, with how-to sheets and a checklist. They cover the development phase, from system design and dataset creation to model training, and are written to fit the AI Act."
+    note: "The voluntary code, published on 10 June 2026, on how to meet the Article 50 duties for AI-generated content. Section 1 is for providers of generative systems: machine-readable marking, such as signed metadata and watermarks, and detection of those marks. Section 2 is for deployers: labelling deep fakes and AI-generated text published on matters of public interest, with an EU icon. The Commission and the AI Board have confirmed it as an adequate way to show compliance."
 ---

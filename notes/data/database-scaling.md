@@ -2,7 +2,7 @@
 title: Scaling the database
 description: "Keeping one main database healthy as load grows, and splitting it when one server is no longer enough: connections, vacuum, replicas, partitioning and sharding."
 why: "A growing product usually hits the limits of its first database before any other part of the stack. Each step, from a connection pooler to sharding, costs more than the last, and a late start leaves little runway."
-reviewed: 2026-11-11
+reviewed: 2026-11-23
 sidebar:
   order: 2
 tags: [postgres, connection-pooling, vacuum, replication, partitioning, sharding]
@@ -37,7 +37,7 @@ sources:
     url: "https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/"
     type: article
     year: 2023
-    note: "Figma's account of outgrowing a single Postgres database on the largest available instance in 2020. It describes the short-term fixes, such as read replicas and PgBouncer, and then vertical partitioning: moving groups of tables to their own databases."
+    note: "Figma's account of outgrowing its single Postgres database from 2020. It describes the short-term fixes, such as moving to the largest available instance, read replicas and PgBouncer, and then vertical partitioning: moving groups of tables to their own databases."
   - title: How Figma's databases team lived to tell the scale
     author: Sammy Steele (Figma)
     url: "https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale/"

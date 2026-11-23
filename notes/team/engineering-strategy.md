@@ -2,7 +2,7 @@
 title: Engineering strategy
 description: "How engineering leaders write and run a technical strategy, and how they report on engineering to the CEO, peers and the board."
 why: "A written strategy lets a team settle recurring decisions once. Founders and investors judge engineering by what they can see of it, so what engineering reports, and how, matters too."
-reviewed: 2026-11-11
+reviewed: 2026-11-23
 sidebar:
   order: 6
 tags: [strategy, technology-choices, board, founders]

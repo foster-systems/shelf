@@ -2,7 +2,7 @@
 title: SaaS customer contracts
 description: "The agreements a SaaS company signs with business customers: the service agreement, the service level agreement and the data processing agreement."
 why: "Customers ask for these contracts before they buy, and the terms commit the product to uptime, security, sub-processors and exit. Standard forms and the EU's own clauses save negotiation and show what counts as normal."
-reviewed: 2026-11-11
+reviewed: 2026-11-23
 sidebar:
   order: 8
 tags: [contracts, saas, sla, dpa, sub-processors, gdpr]

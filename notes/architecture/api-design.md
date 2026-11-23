@@ -2,7 +2,7 @@
 title: API design
 description: "Designing web and service APIs that stay usable as they change: REST, gRPC, OpenAPI, versioning and compatibility."
 why: "A published API is a contract others build on, so mistakes are expensive to undo. Choices on versioning, retries and schemas decide what can change later without breaking customers."
-reviewed: 2026-11-11
+reviewed: 2026-11-23
 sidebar:
   order: 4
 tags: [api, rest, grpc, openapi, versioning, compatibility, idempotency]

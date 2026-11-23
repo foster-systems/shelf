@@ -2,7 +2,7 @@
 title: Email delivery
 description: "Sending a product's email, such as sign-up, password reset and billing messages, so that it reaches the inbox: SPF, DKIM and DMARC, sending domains and IP addresses, and the rules of the large mailbox providers."
 why: "Most products depend on email for sign-up, login and billing, and a message that lands in spam breaks those flows without an error. Gmail and Outlook require authentication from bulk senders and filter or reject mail that fails it. A sending domain's reputation is slow to build and quick to lose."
-reviewed: 2026-11-14
+reviewed: 2026-11-23
 sidebar:
   order: 4
 tags: [email, deliverability, spf, dkim, dmarc, dns]

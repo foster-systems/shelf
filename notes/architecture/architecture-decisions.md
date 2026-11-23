@@ -2,7 +2,7 @@
 title: Architecture decisions
 description: "Making architecture decisions and recording them so the reasoning survives: ADRs, RFCs, design docs and C4 diagrams."
 why: "Decisions outlast the people who made them. Short written records show a new engineer or an agent why the system is the way it is before they change it."
-reviewed: 2026-11-11
+reviewed: 2026-11-23
 sidebar:
   order: 8
 tags: [adr, rfc, design-docs, c4, decision-making]

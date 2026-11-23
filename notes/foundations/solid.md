@@ -2,7 +2,7 @@
 title: SOLID principles
 description: "Five design principles (SRP, OCP, LSP, ISP, DIP) for managing dependencies so code stays easy to change."
 why: "In a growing codebase most changes touch code that other code depends on. These principles say how to split responsibilities and which way dependencies should point, so a change in one place does not force changes everywhere."
-reviewed: 2026-11-11
+reviewed: 2026-11-23
 sidebar:
   order: 2
 tags: [design-principles, object-oriented-design, dependencies, modularity, maintainability]
