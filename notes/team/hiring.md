@@ -6,7 +6,7 @@ reviewed: 2026-11-23
 sidebar:
   order: 1
 tags: [hiring, interviews, work-samples, onboarding]
-related: [team/levels-and-pay, team/technical-leadership, team/team-design, agentic-engineering/tools]
+related: [team/levels-and-pay, team/technical-leadership, team/team-design, law-and-compliance/employing-abroad, agentic-engineering/tools]
 sources:
   - title: "Revisiting the design of selection systems in light of new findings regarding the validity of widely used predictors"
     author: Paul R. Sackett, Charlene Zhang, Christopher M. Berry, Filip Lievens

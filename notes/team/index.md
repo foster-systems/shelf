@@ -5,4 +5,4 @@ sidebar:
   order: 12
 ---
 
-Stock options for employees are in Product and business, and measuring developer productivity is in Delivery.
+Stock options for employees are in Product and business, employing people in other countries is in Law and compliance, and measuring developer productivity is in Delivery.

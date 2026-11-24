@@ -122,6 +122,7 @@ The laws, contracts, standards and rights a software company working in the EU h
 - [SOC 2 and ISO/IEC 27001](notes/law-and-compliance/soc2-and-iso27001.md): Two security assurance schemes: SOC 2, a report by a CPA firm under AICPA criteria, and ISO/IEC 27001, a certifiable standard for information security management.
 - [Open source licences](notes/law-and-compliance/open-source-licences.md): What open source licences allow and require when a company builds its product on open source code.
 - [Intellectual property](notes/law-and-compliance/intellectual-property.md): The rights a software company can hold in its code, name, inventions and know-how, and how it makes sure it owns them.
+- [Employing people in other countries](notes/law-and-compliance/employing-abroad.md): The rules that decide which country's labour law, social security and tax apply when a company's staff work from another country, and when a contractor counts as an employee.
 
 ### [Product and business](notes/product-and-business/)
 
