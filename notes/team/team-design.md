@@ -6,7 +6,7 @@ reviewed: 2026-11-23
 sidebar:
   order: 3
 tags: [organisation, conways-law, team-topologies, remote-work]
-related: [team/hiring, team/technical-leadership, infrastructure/platform-engineering, foundations/ddd]
+related: [team/hiring, team/technical-leadership, law-and-compliance/employing-abroad, infrastructure/platform-engineering, foundations/ddd]
 sources:
   - title: "How Do Committees Invent?"
     author: Melvin E. Conway
@@ -41,7 +41,7 @@ sources:
   - title: "Hybrid working from home improves retention without damaging performance"
     author: Nicholas Bloom, Ruobing Han, James Liang
     url: "https://www.nature.com/articles/s41586-024-07500-2"
-    agents: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11208135/"
+    agents: "https://web.archive.org/web/20250426012353/https://pmc.ncbi.nlm.nih.gov/articles/PMC11208135/"
     type: paper
     year: 2024
     note: "A randomised trial with 1,612 engineering, marketing and finance staff at Trip.com, where half could work from home two days a week. Hybrid work cut quit rates by a third and did not change performance reviews, promotions or lines of code written. James Liang co-founded and chairs Trip.com."

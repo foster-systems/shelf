@@ -6,7 +6,7 @@ reviewed: 2026-11-23
 sidebar:
   order: 12
 tags: [intellectual-property, copyright, trade-marks, trade-secrets, patents, ip-assignment]
-related: [law-and-compliance/open-source-licences, product-and-business/fundraising-and-due-diligence, team/hiring]
+related: [law-and-compliance/open-source-licences, law-and-compliance/employing-abroad, product-and-business/fundraising-and-due-diligence, team/hiring]
 sources:
   - title: "Enterprising Ideas: A Guide to Intellectual Property for Startups"
     author: World Intellectual Property Organization
