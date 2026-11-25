@@ -2,7 +2,7 @@
 title: Architecture decisions
 description: "Making architecture decisions and recording them so the reasoning survives: ADRs, RFCs, design docs and C4 diagrams."
 why: "Decisions outlast the people who made them. Short written records show a new engineer or an agent why the system is the way it is before they change it."
-reviewed: 2026-11-23
+reviewed: 2026-11-25
 sidebar:
   order: 8
 tags: [adr, rfc, design-docs, c4, decision-making]
@@ -26,12 +26,12 @@ sources:
     type: article
     year: 2020
     note: "How Google engineers use informal documents, written before coding, to set out a system's implementation strategy and the trade-offs behind key decisions. It covers typical structure, when a doc is worth the overhead, and how docs are reviewed and maintained."
-  - title: "RFD 1: Requests for Discussion"
-    author: Jess Frazelle and Bryan Cantrill
-    url: "https://rfd.shared.oxide.computer/rfd/0001"
-    type: guide
-    year: 2026
-    note: "Oxide Computer Company's current, public definition of its Request for Discussion process, modeled on the IETF's RFCs. It says when to write an RFD, what to record (options, reasoning and the determination), and the six states a document moves through."
+  - title: "RFD 1 Requests for Discussion"
+    author: Jessie Frazelle
+    url: "https://oxide.computer/blog/rfd-1-requests-for-discussion"
+    type: article
+    year: 2020
+    note: "Oxide Computer Company's first Request for Discussion, published on its blog in 2020, which defines its process for proposing and discussing ideas in writing, modeled on the IETF's RFCs. It says when to write an RFD, the six states a document moves through, and how each one is drafted in a Git branch and discussed in a pull request. A note at the top points to a later podcast episode on how the process has evolved."
   - title: "Scaling the Practice of Architecture, Conversationally"
     author: Andrew Harmel-Law
     url: "https://martinfowler.com/articles/scaling-architecture-conversationally.html"
