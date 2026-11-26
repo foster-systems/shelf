@@ -126,7 +126,7 @@ The laws, contracts, standards and rights a software company working in the EU h
 
 ### [Product and business](notes/product-and-business/)
 
-The business a software company's technology serves: what to build, how to sell and price it, and how to measure the company, fund it and share its ownership.
+The business a software company's technology serves: what to build, how to sell and price it, and how to set the company up, measure it, fund it and share its ownership.
 
 - [Product discovery](notes/product-and-business/product-discovery.md): How a software company decides what to build, tests ideas with customers before building them, and tells whether it has product-market fit.
 - [Go-to-market and early sales](notes/product-and-business/go-to-market.md): How a software company finds its first customers, matches its way of selling to its price point, and moves from founder-led sales to a sales team.
@@ -134,6 +134,7 @@ The business a software company's technology serves: what to build, how to sell 
 - [Enterprise readiness](notes/product-and-business/enterprise-readiness.md): The features and assurances larger customers require before they buy a SaaS product: single sign-on, user provisioning, audit logs, roles and security reviews.
 - [SaaS metrics](notes/product-and-business/saas-metrics.md): How recurring revenue, retention, churn, customer acquisition cost and gross margin are defined, calculated and compared with peers.
 - [Runway and financial planning](notes/product-and-business/runway-and-financial-planning.md): How a software company measures burn and runway, tells whether it reaches profit on the cash it has, and plans revenue, headcount and spending.
+- [Company formation](notes/product-and-business/company-formation.md): Choosing the legal form and country of a new software company: a national limited company, a US corporation in Delaware, a US parent over a European company, and the proposed EU Inc.
 - [Fundraising and due diligence](notes/product-and-business/fundraising-and-due-diligence.md): How early-stage software companies raise money, the standard funding documents, and how investors run technical due diligence.
 - [Equity and stock options](notes/product-and-business/equity-and-stock-options.md): How founders split ownership, how founder shares vest and are taxed, and how a company sizes and runs stock options for employees.
 
