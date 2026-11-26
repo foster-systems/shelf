@@ -1,6 +1,6 @@
 ---
 title: Product and business
-description: "The business a software company's technology serves: what to build, how to sell and price it, and how to measure the company, fund it and share its ownership."
+description: "The business a software company's technology serves: what to build, how to sell and price it, and how to set the company up, measure it, fund it and share its ownership."
 sidebar:
   order: 11
 ---

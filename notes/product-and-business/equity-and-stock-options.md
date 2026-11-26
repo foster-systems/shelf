@@ -4,9 +4,9 @@ description: "How founders split ownership, how founder shares vest and are taxe
 why: "Equity decisions made at incorporation and with the first hires are hard to undo and can cost founders and employees money or control years later. Stock options are also how a young company competes for engineers against larger employers' salaries, and the rules differ by country."
 reviewed: 2026-11-23
 sidebar:
-  order: 8
+  order: 9
 tags: [equity, cap-table, vesting, stock-options, esop, founders, 83b, qsbs]
-related: [product-and-business/fundraising-and-due-diligence, team/hiring, team/levels-and-pay]
+related: [product-and-business/company-formation, product-and-business/fundraising-and-due-diligence, team/hiring, team/levels-and-pay]
 sources:
   - title: "How to Split Equity Among Co-Founders"
     author: Michael Seibel

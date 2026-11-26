@@ -4,9 +4,9 @@ description: "How early-stage software companies raise money, the standard fundi
 why: "Funding terms decide who controls the company and how much the founders keep. The person running technology answers investors' technical questions and supplies much of what they review, and having it ready shortens closing."
 reviewed: 2026-11-23
 sidebar:
-  order: 7
+  order: 8
 tags: [fundraising, due-diligence, safe, term-sheet, venture-capital]
-related: [product-and-business/equity-and-stock-options, product-and-business/runway-and-financial-planning, product-and-business/saas-metrics, foundations/technical-debt, security/application-security, law-and-compliance/soc2-and-iso27001, law-and-compliance/open-source-licences, law-and-compliance/intellectual-property]
+related: [product-and-business/company-formation, product-and-business/equity-and-stock-options, product-and-business/runway-and-financial-planning, product-and-business/saas-metrics, foundations/technical-debt, security/application-security, law-and-compliance/soc2-and-iso27001, law-and-compliance/open-source-licences, law-and-compliance/intellectual-property]
 sources:
   - title: "How to Raise Money"
     author: Paul Graham
