@@ -6,7 +6,7 @@ reviewed: 2026-11-21
 sidebar:
   order: 3
 tags: [harness-engineering, context-engineering, agents-md, spec-driven-development, testing]
-related: [agentic-engineering/tools, agentic-engineering/supervising-agents, delivery/testing-strategy, foundations/tdd]
+related: [agentic-engineering/tools, agentic-engineering/supervising-agents, delivery/testing-strategy, foundations/tdd, foundations/documentation]
 sources:
   - title: "Harness engineering: leveraging Codex in an agent-first world"
     author: Ryan Lopopolo (OpenAI)
