@@ -18,6 +18,7 @@ Design principles and practices that outlast any stack.
 - [Test-driven development](notes/foundations/tdd.md): A loop of writing a small failing test, making it pass, then cleaning up the design, one behaviour at a time.
 - [Technical debt](notes/foundations/technical-debt.md): Shortcuts and aging choices in code and design that make later changes slower, and how to decide which to pay back.
 - [Refactoring and rewrites](notes/foundations/refactoring.md): Improving the structure of working code without changing what it does, and choosing between rewriting a system and replacing it piece by piece.
+- [Documentation](notes/foundations/documentation.md): Writing and maintaining the documentation of a software product and its codebase: which kinds of docs to write, for which readers, and how to keep them correct.
 
 ### [AI engineering](notes/ai-engineering/)
 
