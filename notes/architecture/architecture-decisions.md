@@ -4,7 +4,7 @@ description: "Making architecture decisions and recording them so the reasoning 
 why: "Decisions outlast the people who made them. Short written records show a new engineer or an agent why the system is the way it is before they change it."
 reviewed: 2026-11-25
 sidebar:
-  order: 8
+  order: 9
 tags: [adr, rfc, design-docs, c4, decision-making]
 related: [architecture/build-or-buy, foundations/ddd, foundations/documentation, team/technical-leadership, team/engineering-strategy, agentic-engineering/steering]
 sources:

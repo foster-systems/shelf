@@ -6,7 +6,7 @@ reviewed: 2026-11-23
 sidebar:
   order: 7
 tags: [frontend, rendering, ssr, islands, performance, core-web-vitals, accessibility, wcag, eaa]
-related: [architecture/api-design, architecture/caching, law-and-compliance/cookies]
+related: [architecture/api-design, architecture/caching, architecture/internationalization, law-and-compliance/cookies]
 sources:
   - title: "Rendering on the web"
     author: Addy Osmani and Jason Miller
