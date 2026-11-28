@@ -4,7 +4,7 @@ description: "Deciding what to build, what to buy and what to adopt, and the ris
 why: "A small company has little engineering time and needs to spend it on what makes the product different. Every technology and vendor adopted also becomes a long-term operating cost and a dependency."
 reviewed: 2026-11-23
 sidebar:
-  order: 9
+  order: 10
 tags: [build-vs-buy, boring-technology, dependencies, vendor-risk, lock-in, cloud-exit, strategy]
 related: [architecture/architecture-decisions, infrastructure/finops, security/supply-chain, team/engineering-strategy, foundations/technical-debt, law-and-compliance/open-source-licences, law-and-compliance/data-act]
 sources:

@@ -52,6 +52,7 @@ How systems are shaped and how those decisions are made.
 - [Asynchronous work and messaging](notes/architecture/messaging.md): Moving work out of the request with background jobs, queues and events, and keeping data correct when a message is late, lost or delivered twice.
 - [Caching](notes/architecture/caching.md): Keeping copies of data close to where they are used: HTTP and CDN caches, application caches, invalidation and the failures caches cause.
 - [Web frontend](notes/architecture/web-frontend.md): The client side of a SaaS web application: rendering choices, web performance and accessibility.
+- [Internationalization and localization](notes/architecture/internationalization.md): Building software that works across languages, regions and time zones, and adapting it to each market: text encoding, translatable messages, local formats, personal names and time.
 - [Architecture decisions](notes/architecture/architecture-decisions.md): Making architecture decisions and recording them so the reasoning survives: ADRs, RFCs, design docs and C4 diagrams.
 - [Build or buy](notes/architecture/build-or-buy.md): Deciding what to build, what to buy and what to adopt, and the risk each dependency brings.
 
